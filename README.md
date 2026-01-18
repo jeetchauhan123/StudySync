@@ -10,8 +10,6 @@ This project was created to practice **modern CSS techniques**, responsive layou
 - **HTML5**
 - **CSS3**
 - **Google Fonts (Inter)**
-- No JavaScript
-- No frameworks
 
 ---
 
