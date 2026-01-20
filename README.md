@@ -9,7 +9,7 @@ This project is ideal for beginners and intermediate frontend developers who wan
 
 ## 🔗 Live Demo
 
-[> _(Visit Web App)_](https://study-sync-opal.vercel.app/)
+[> _Visit Web App_](https://study-sync-opal.vercel.app/)
 
 ---
 
