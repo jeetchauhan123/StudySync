@@ -9,7 +9,7 @@ This project is ideal for beginners and intermediate frontend developers who wan
 
 ## 🔗 Live Demo
 
-[> _(Add deployment link here if hosted on GitHub Pages / Netlify / Vercel)_](https://study-sync-opal.vercel.app/)
+[> _(Visit Web App)_](https://study-sync-opal.vercel.app/)
 
 ---
 
